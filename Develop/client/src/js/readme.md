@@ -1,5 +1,5 @@
 TODO: 
-database.js
+database.js // done
 src-sw.js
-install.js
+install.js // done
 webpack.config // done
